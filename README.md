@@ -1,2 +1,5 @@
-# mor
-CAD files for Mor project
+# Template
+
+CAD template files for template project
+
+<https://notes.grwd.uk/>
